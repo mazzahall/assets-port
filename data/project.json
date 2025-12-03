@@ -1,20 +1,28 @@
-[
-  {
-    "id": 1,
-    "title": "ADZ Health",
-    "image": "https://raw.githubusercontent.com/mazzahall/assets-port/main/assets/Project/ADZHEALTH.webp",
-    "link": "https://adz-health.vercel.app/"
-  },
-  {
-    "id": 2,
-    "title": "Manajemen Diri",
-    "image": "https://raw.githubusercontent.com/mazzahall/assets-port/main/assets/Project/manajemendiri.webp",
-    "link": "https://tugas-akhir-chi.vercel.app/"
-  },
-  {
-    "id": 3,
-    "title": "Portofolio Lama",
-    "image": "https://raw.githubusercontent.com/mazzahall/assets-port/main/assets/Project/Portofoliolama.webp",
-    "link": "https://mazzahall.github.io/porto-jsx/"
-  }
-]
+{
+  "projects": [
+    {
+      "id": "project_001",
+      "judul": "ADZ Health",
+      "deskripsi": "Aplikasi kesehatan digital dengan fitur tracking dan konsultasi.",
+      "gambar": "https://raw.githubusercontent.com/mazzahall/assets-port/main/assets/ADZHEALTH/ADZHEALTH.webp",
+      "tags": ["Health", "Web App"],
+      "link": "#"
+    },
+    {
+      "id": "project_002",
+      "judul": "Portofolio Lama",
+      "deskripsi": "Versi awal portofolio sebelum redesign terbaru.",
+      "gambar": "https://raw.githubusercontent.com/mazzahall/assets-port/main/assets/Portofoliolama/Portofoliolama.webp",
+      "tags": ["Portfolio", "UI/UX"],
+      "link": "#"
+    },
+    {
+      "id": "project_003",
+      "judul": "Manajemen Diri",
+      "deskripsi": "Aplikasi untuk mencatat aktivitas dan mengatur produktivitas.",
+      "gambar": "https://raw.githubusercontent.com/mazzahall/assets-port/main/assets/manajemendiri/manajemendiri.webp",
+      "tags": ["Productivity", "Web App"],
+      "link": "#"
+    }
+  ]
+}
